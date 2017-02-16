@@ -1,19 +1,15 @@
 #-------------------------------------------------------------------------------
-# Name:        module2
+# Name:        FDLoader
 # Purpose:
 #
 # Author:      aketay
 #
 # Created:     24/04/2014
-# Copyright:   (c) aketay 2014
-# Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import json
 import csv
 import readCSV
 import time
-
-
 
 teamObject = readCSV.GetTeams()
 
@@ -25,7 +21,7 @@ class FDSALCAP:
         self.getFDInfo()
 
     def getFDInfo(self):
-        f = open(r'/Users/Slyjester/Desktop/FDSALCAP.Json')
+        f = open(r'/Users/aketay/Desktop/FDSALCAP.Json')
 
         decoded_data = json.load(f)
 
@@ -35,4 +31,3 @@ class FDSALCAP:
 
         with open("FanDuelSalCap.json", "w") as outfile:
             json.dump(self.fdSalCapDict, outfile, indent=4)
-
