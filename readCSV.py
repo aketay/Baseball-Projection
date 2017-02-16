@@ -1,19 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:readCSV        
 # Purpose:
 #
 # Author:      aketay
 #
 # Created:     24/04/2014
-# Copyright:   (c) aketay 2014
-# Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import csv
-def main():
-    pass
-
-if __name__ == '__main__':
-    main()
 
 class GetTeams:
     def __init__(self):
@@ -32,10 +25,8 @@ class GetTeams:
         ifile  = open("lineuptest.csv", "rb")
         reader = csv.reader(ifile)
 
-
         for row in reader:
             self.sheetDict[row[0]]=[row[1],row[2]]
-
 
         for item in self.sheetDict.keys():
             if item == "1":
