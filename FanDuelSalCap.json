@@ -1,0 +1,5072 @@
+{
+    "Rougned Odor": [
+        "2300", 
+        "2B", 
+        1.5
+    ], 
+    "Paul Konerko": [
+        "2800", 
+        "1B", 
+        1.1
+    ], 
+    "J.J. Putz": [
+        "4000", 
+        "P", 
+        1.5
+    ], 
+    "Onelki Garcia": [
+        "4200", 
+        "P", 
+        0
+    ], 
+    "Kevin Chapman": [
+        "4200", 
+        "P", 
+        1.4
+    ], 
+    "Gerald Laird": [
+        "2200", 
+        "C", 
+        0.6
+    ], 
+    "Brian Moran": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Tim Hudson": [
+        "7300", 
+        "P", 
+        12.5
+    ], 
+    "Craig Gentry": [
+        "3000", 
+        "OF", 
+        1.9
+    ], 
+    "Mike Adams": [
+        "4000", 
+        "P", 
+        2.1
+    ], 
+    "Matt Joyce": [
+        "3100", 
+        "OF", 
+        2.3
+    ], 
+    "Jeremy Guthrie": [
+        "5000", 
+        "P", 
+        7
+    ], 
+    "Matt Belisle": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Tony Watson": [
+        "4200", 
+        "P", 
+        2.9
+    ], 
+    "Kevin Kiermaier": [
+        "2200", 
+        "OF", 
+        -0.5
+    ], 
+    "Rafael Furcal": [
+        "3000", 
+        "SS", 
+        0
+    ], 
+    "Gregor Blanco": [
+        "2200", 
+        "OF", 
+        0.3
+    ], 
+    "Ryan Vogelsong": [
+        "4900", 
+        "P", 
+        7
+    ], 
+    "Dan Uggla": [
+        "2200", 
+        "2B", 
+        1.2
+    ], 
+    "Andy Parrino": [
+        "2200", 
+        "SS", 
+        0.3
+    ], 
+    "Yordano Ventura": [
+        "7900", 
+        "P", 
+        11.9
+    ], 
+    "Nathan Eovaldi": [
+        "7200", 
+        "P", 
+        11.3
+    ], 
+    "Jose Veras": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Zack Greinke": [
+        "9700", 
+        "P", 
+        14
+    ], 
+    "Chase Anderson": [
+        "5000", 
+        "P", 
+        14.1
+    ], 
+    "Dustin McGowan": [
+        "4800", 
+        "P", 
+        6.7
+    ], 
+    "Nick Tepesch": [
+        "4500", 
+        "P", 
+        7.1
+    ], 
+    "Phil Hughes": [
+        "6500", 
+        "P", 
+        10.2
+    ], 
+    "Cory Gearrin": [
+        "4200", 
+        "P", 
+        1.3
+    ], 
+    "Justin Wilson": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Drew Pomeranz": [
+        "4300", 
+        "P", 
+        3.9
+    ], 
+    "Allen Craig": [
+        "2700", 
+        "OF", 
+        1.6
+    ], 
+    "Albert Pujols": [
+        "3800", 
+        "1B", 
+        3.3
+    ], 
+    "Justin Masterson": [
+        "7300", 
+        "P", 
+        10.5
+    ], 
+    "Sandy Leon": [
+        "2200", 
+        "C", 
+        1.2
+    ], 
+    "Robbie Grossman": [
+        "2800", 
+        "OF", 
+        1.6
+    ], 
+    "Chad Jenkins": [
+        "4200", 
+        "P", 
+        0.7
+    ], 
+    "Kirk Nieuwenhuis": [
+        "2200", 
+        "OF", 
+        1.5
+    ], 
+    "Ryan Dempster": [
+        "4000", 
+        "P", 
+        8.5
+    ], 
+    "Josmil Pinto": [
+        "3200", 
+        "C", 
+        2.4
+    ], 
+    "Hector Rondon": [
+        "4200", 
+        "P", 
+        2.1
+    ], 
+    "Jason Castro": [
+        "3100", 
+        "C", 
+        2.1
+    ], 
+    "Nate Jones": [
+        "6100", 
+        "P", 
+        -2
+    ], 
+    "Sean Rodriguez": [
+        "2900", 
+        "SS", 
+        2.5
+    ], 
+    "Joaquin Benoit": [
+        "4000", 
+        "P", 
+        1.8
+    ], 
+    "Elvis Andrus": [
+        "3200", 
+        "SS", 
+        2.3
+    ], 
+    "Ryan Webb": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Casey McGehee": [
+        "3000", 
+        "3B", 
+        2.2
+    ], 
+    "Austin Romine": [
+        "2200", 
+        "C", 
+        -0.3
+    ], 
+    "Yusmeiro Petit": [
+        "5600", 
+        "P", 
+        4.3
+    ], 
+    "Hector Santiago": [
+        "5300", 
+        "P", 
+        5.6
+    ], 
+    "James Jones": [
+        "2900", 
+        "OF", 
+        2
+    ], 
+    "Jacob Turner": [
+        "4800", 
+        "P", 
+        4
+    ], 
+    "Matt Thornton": [
+        "4000", 
+        "P", 
+        0.5
+    ], 
+    "Josh Reddick": [
+        "2700", 
+        "OF", 
+        1.5
+    ], 
+    "Tanner Scheppers": [
+        "4300", 
+        "P", 
+        2.8
+    ], 
+    "Kyle Blanks": [
+        "2200", 
+        "OF", 
+        0.3
+    ], 
+    "Chris Denorfia": [
+        "2500", 
+        "OF", 
+        1.5
+    ], 
+    "A.J. Pierzynski": [
+        "3200", 
+        "C", 
+        2
+    ], 
+    "Marcus Semien": [
+        "2800", 
+        "3B", 
+        2.2
+    ], 
+    "Adam Eaton": [
+        "3100", 
+        "OF", 
+        2.9
+    ], 
+    "Bruce Chen": [
+        "6000", 
+        "P", 
+        6.3
+    ], 
+    "Mat Latos": [
+        "8000", 
+        "P", 
+        11.9
+    ], 
+    "J.P. Arencibia": [
+        "2300", 
+        "C", 
+        0.9
+    ], 
+    "Mike Trout": [
+        "4800", 
+        "OF", 
+        3.5
+    ], 
+    "Miguel Montero": [
+        "3800", 
+        "C", 
+        2.6
+    ], 
+    "Leonys Martin": [
+        "2700", 
+        "OF", 
+        2.1
+    ], 
+    "Juan Francisco": [
+        "3200", 
+        "3B", 
+        3.1
+    ], 
+    "Alejandro De Aza": [
+        "2500", 
+        "OF", 
+        1.5
+    ], 
+    "Jed Lowrie": [
+        "2900", 
+        "SS", 
+        2.4
+    ], 
+    "Tim Beckham": [
+        "2200", 
+        "SS", 
+        0.8
+    ], 
+    "Craig Stammen": [
+        "4200", 
+        "P", 
+        2.7
+    ], 
+    "Fernando Abad": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Stephen Fife": [
+        "4700", 
+        "P", 
+        7
+    ], 
+    "Derek Holland": [
+        "5900", 
+        "P", 
+        10.9
+    ], 
+    "Peter Bourjos": [
+        "2900", 
+        "OF", 
+        1.3
+    ], 
+    "Henderson Alvarez": [
+        "7000", 
+        "P", 
+        8.7
+    ], 
+    "Melky Cabrera": [
+        "3600", 
+        "OF", 
+        3.1
+    ], 
+    "Jeremy Hellickson": [
+        "4300", 
+        "P", 
+        8
+    ], 
+    "Phil Irwin": [
+        "4200", 
+        "P", 
+        4.2
+    ], 
+    "Chris Colabello": [
+        "2600", 
+        "OF", 
+        2.4
+    ], 
+    "Tyler Skaggs": [
+        "6100", 
+        "P", 
+        9.2
+    ], 
+    "Dominic Leone": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Red Patterson": [
+        "4000", 
+        "P", 
+        4.2
+    ], 
+    "Efren Navarro": [
+        "2200", 
+        "1B", 
+        4
+    ], 
+    "Steven Rodriguez": [
+        "4200", 
+        "P", 
+        1
+    ], 
+    "Jon Niese": [
+        "6700", 
+        "P", 
+        11.2
+    ], 
+    "Lance Lynn": [
+        "7800", 
+        "P", 
+        11.6
+    ], 
+    "Tom Milone": [
+        "5400", 
+        "P", 
+        7.4
+    ], 
+    "Michael Dunn": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Jurickson Profar": [
+        "3200", 
+        "2B", 
+        1.6
+    ], 
+    "George Kottaras": [
+        "2400", 
+        "C", 
+        12.8
+    ], 
+    "Bryan Shaw": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Daniel Webb": [
+        "4200", 
+        "P", 
+        2.8
+    ], 
+    "Clint Barmes": [
+        "2200", 
+        "SS", 
+        0.8
+    ], 
+    "Miguel Cabrera": [
+        "5000", 
+        "1B", 
+        2.9
+    ], 
+    "Rex Brothers": [
+        "6100", 
+        "P", 
+        1.9
+    ], 
+    "Antonio Bastardo": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Brian Matusz": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Logan Forsythe": [
+        "2200", 
+        "2B", 
+        0.8
+    ], 
+    "Rajai Davis": [
+        "3200", 
+        "OF", 
+        3
+    ], 
+    "Blake Parker": [
+        "4200", 
+        "P", 
+        -0.9
+    ], 
+    "Edwin Encarnacion": [
+        "4200", 
+        "1B", 
+        3
+    ], 
+    "Chris Archer": [
+        "6900", 
+        "P", 
+        7.9
+    ], 
+    "J.D. Martinez": [
+        "2600", 
+        "OF", 
+        1.7
+    ], 
+    "Pedro Figueroa": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Alexei Ramirez": [
+        "3900", 
+        "SS", 
+        3.1
+    ], 
+    "Sean Doolittle": [
+        "4200", 
+        "P", 
+        2.2
+    ], 
+    "Pedro Florimon": [
+        "2300", 
+        "SS", 
+        0.9
+    ], 
+    "Scott Feldman": [
+        "5600", 
+        "P", 
+        9.6
+    ], 
+    "Ed Lucas": [
+        "2400", 
+        "2B", 
+        0.9
+    ], 
+    "Ramiro Pena": [
+        "2500", 
+        "3B", 
+        1.1
+    ], 
+    "Logan Morrison": [
+        "2400", 
+        "OF", 
+        0.6
+    ], 
+    "Aaron Brooks": [
+        "4000", 
+        "P", 
+        -2
+    ], 
+    "Brett Lawrie": [
+        "3000", 
+        "3B", 
+        2.2
+    ], 
+    "Luis Jimenez": [
+        "2200", 
+        "3B", 
+        -0.1
+    ], 
+    "Lucas Luetge": [
+        "4200", 
+        "P", 
+        0.7
+    ], 
+    "Matt Shoemaker": [
+        "4200", 
+        "P", 
+        2.7
+    ], 
+    "Chris Iannetta": [
+        "2900", 
+        "C", 
+        2.7
+    ], 
+    "Kenley Jansen": [
+        "4000", 
+        "P", 
+        1.8
+    ], 
+    "Anthony Bass": [
+        "4200", 
+        "P", 
+        1.1
+    ], 
+    "Mike Morse": [
+        "3100", 
+        "OF", 
+        2.4
+    ], 
+    "David Lough": [
+        "2500", 
+        "OF", 
+        0.9
+    ], 
+    "Jake Arrieta": [
+        "5100", 
+        "P", 
+        7.1
+    ], 
+    "John Lannan": [
+        "4200", 
+        "P", 
+        0.6
+    ], 
+    "Jhonny Peralta": [
+        "3400", 
+        "SS", 
+        2.4
+    ], 
+    "Anthony Recker": [
+        "2600", 
+        "C", 
+        1.7
+    ], 
+    "Michael Saunders": [
+        "2900", 
+        "OF", 
+        1.2
+    ], 
+    "Joe Smith": [
+        "4000", 
+        "P", 
+        2
+    ], 
+    "Tim Stauffer": [
+        "4600", 
+        "P", 
+        2.7
+    ], 
+    "Pat Neshek": [
+        "4000", 
+        "P", 
+        1.8
+    ], 
+    "Michael Wacha": [
+        "8500", 
+        "P", 
+        12.1
+    ], 
+    "Darin Ruf": [
+        "2700", 
+        "1B", 
+        2
+    ], 
+    "Roger Bernadina": [
+        "2400", 
+        "OF", 
+        0.6
+    ], 
+    "Alex Gonzalez": [
+        "2200", 
+        "SS", 
+        0.9
+    ], 
+    "Zach Putnam": [
+        "4200", 
+        "P", 
+        3
+    ], 
+    "Brad Peacock": [
+        "5800", 
+        "P", 
+        6.1
+    ], 
+    "Avisail Garcia": [
+        "3200", 
+        "OF", 
+        2.8
+    ], 
+    "Anthony Gose": [
+        "2900", 
+        "OF", 
+        3
+    ], 
+    "Nick Vincent": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Evan Scribner": [
+        "4200", 
+        "P", 
+        0.6
+    ], 
+    "Andrew Hutchison": [
+        "5500", 
+        "P", 
+        9.5
+    ], 
+    "Madison Bumgarner": [
+        "9200", 
+        "P", 
+        11.4
+    ], 
+    "Jarrod Parker": [
+        "6400", 
+        "P", 
+        9.1
+    ], 
+    "Hyun-Jin Ryu": [
+        "7100", 
+        "P", 
+        9.9
+    ], 
+    "Scott Van Slyke": [
+        "2400", 
+        "OF", 
+        2.1
+    ], 
+    "Adam Jones": [
+        "3800", 
+        "OF", 
+        2.2
+    ], 
+    "Luis Valbuena": [
+        "2600", 
+        "3B", 
+        1.4
+    ], 
+    "Brendan Ryan": [
+        "2200", 
+        "SS", 
+        0.5
+    ], 
+    "Casey Janssen": [
+        "4000", 
+        "P", 
+        1
+    ], 
+    "Tim Lincecum": [
+        "6300", 
+        "P", 
+        9.8
+    ], 
+    "James Russell": [
+        "4200", 
+        "P", 
+        0.7
+    ], 
+    "Tyler Pastornicky": [
+        "2200", 
+        "SS", 
+        0.3
+    ], 
+    "Jeff Manship": [
+        "4200", 
+        "P", 
+        1.3
+    ], 
+    "Bobby LaFromboise": [
+        "4200", 
+        "P", 
+        1.4
+    ], 
+    "Zack Cozart": [
+        "2200", 
+        "SS", 
+        0.9
+    ], 
+    "Will Middlebrooks": [
+        "3200", 
+        "3B", 
+        2.1
+    ], 
+    "Steve Delabar": [
+        "4200", 
+        "P", 
+        1.9
+    ], 
+    "Jered Weaver": [
+        "7600", 
+        "P", 
+        11
+    ], 
+    "Freddie Freeman": [
+        "3600", 
+        "1B", 
+        2.9
+    ], 
+    "Jeremy Jeffress": [
+        "4200", 
+        "P", 
+        1
+    ], 
+    "C.J. Cron": [
+        "2700", 
+        "1B", 
+        3.2
+    ], 
+    "Domonic Brown": [
+        "2600", 
+        "OF", 
+        1.6
+    ], 
+    "Cesar Hernandez": [
+        "2500", 
+        "2B", 
+        0.6
+    ], 
+    "Eric Stults": [
+        "5700", 
+        "P", 
+        5.5
+    ], 
+    "Danny Farquhar": [
+        "5900", 
+        "P", 
+        2.4
+    ], 
+    "Justin De Fratus": [
+        "4200", 
+        "P", 
+        0.8
+    ], 
+    "Brandon Morrow": [
+        "5200", 
+        "P", 
+        6.5
+    ], 
+    "Joe Beimel": [
+        "4000", 
+        "P", 
+        1.3
+    ], 
+    "Travis Wood": [
+        "6500", 
+        "P", 
+        7.7
+    ], 
+    "Corey Kluber": [
+        "7800", 
+        "P", 
+        12.5
+    ], 
+    "Wei-Chung Wang": [
+        "4000", 
+        "P", 
+        0.2
+    ], 
+    "Jordan Pacheco": [
+        "2200", 
+        "C", 
+        1.4
+    ], 
+    "Donnie Veal": [
+        "4000", 
+        "P", 
+        1
+    ], 
+    "Carlos Gomez": [
+        "4400", 
+        "OF", 
+        3.6
+    ], 
+    "Freddy Galvis": [
+        "2200", 
+        "2B", 
+        -0.1
+    ], 
+    "Kevin Correia": [
+        "4400", 
+        "P", 
+        5
+    ], 
+    "Blake Wood": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Alfredo Simon": [
+        "5300", 
+        "P", 
+        9.6
+    ], 
+    "Danny Duffy": [
+        "5300", 
+        "P", 
+        4.4
+    ], 
+    "David Hale": [
+        "5100", 
+        "P", 
+        5.4
+    ], 
+    "Steve Souza": [
+        "3100", 
+        "OF", 
+        0
+    ], 
+    "Daniel Straily": [
+        "6400", 
+        "P", 
+        7.9
+    ], 
+    "Raul Valdes": [
+        "4200", 
+        "P", 
+        0.3
+    ], 
+    "Dane de la Rosa": [
+        "4200", 
+        "P", 
+        -1.9
+    ], 
+    "Jose Reyes": [
+        "3800", 
+        "SS", 
+        3
+    ], 
+    "Josh Lindblom": [
+        "4200", 
+        "P", 
+        4.2
+    ], 
+    "Keith Butler": [
+        "4200", 
+        "P", 
+        -1
+    ], 
+    "J.J. Hardy": [
+        "2200", 
+        "SS", 
+        1.3
+    ], 
+    "Edward Mujica": [
+        "4000", 
+        "P", 
+        1
+    ], 
+    "Roenis Elias": [
+        "5700", 
+        "P", 
+        10.3
+    ], 
+    "David Carpenter": [
+        "4200", 
+        "P", 
+        2.3
+    ], 
+    "Andrew McCutchen": [
+        "4000", 
+        "OF", 
+        3.4
+    ], 
+    "Wilmer Flores": [
+        "2200", 
+        "3B", 
+        0.4
+    ], 
+    "Curtis Granderson": [
+        "3000", 
+        "OF", 
+        1.9
+    ], 
+    "Devin Mesoraco": [
+        "3400", 
+        "C", 
+        4.7
+    ], 
+    "Fernando Salas": [
+        "4000", 
+        "P", 
+        2.3
+    ], 
+    "Evan Reed": [
+        "4200", 
+        "P", 
+        1.4
+    ], 
+    "Phil Coke": [
+        "4200", 
+        "P", 
+        0.5
+    ], 
+    "Josh Satin": [
+        "2400", 
+        "1B", 
+        0.6
+    ], 
+    "Gavin Floyd": [
+        "5600", 
+        "P", 
+        11.1
+    ], 
+    "Jaime Garcia": [
+        "5000", 
+        "P", 
+        10.7
+    ], 
+    "Stephen Pryor": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Stefen Romero": [
+        "2400", 
+        "2B", 
+        1.6
+    ], 
+    "Erick Aybar": [
+        "3200", 
+        "SS", 
+        2.2
+    ], 
+    "Kevin Quackenbush": [
+        "4000", 
+        "P", 
+        1.6
+    ], 
+    "Joel Peralta": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Jayson Werth": [
+        "3400", 
+        "OF", 
+        2.6
+    ], 
+    "David DeJesus": [
+        "2700", 
+        "OF", 
+        2
+    ], 
+    "Carlos Beltran": [
+        "3200", 
+        "OF", 
+        2.2
+    ], 
+    "Preston Guilmet": [
+        "4200", 
+        "P", 
+        3.1
+    ], 
+    "Chris Parmelee": [
+        "2200", 
+        "OF", 
+        1
+    ], 
+    "Omar Quintanilla": [
+        "2200", 
+        "SS", 
+        0.6
+    ], 
+    "Ian Krol": [
+        "4200", 
+        "P", 
+        1.1
+    ], 
+    "Seth Smith": [
+        "3700", 
+        "OF", 
+        2.8
+    ], 
+    "Josh Stinson": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "J.J. Hoover": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Brandon Phillips": [
+        "2800", 
+        "2B", 
+        1.6
+    ], 
+    "Mike Baxter": [
+        "2200", 
+        "OF", 
+        -0.2
+    ], 
+    "Giancarlo Stanton": [
+        "5100", 
+        "OF", 
+        4.1
+    ], 
+    "Johnny Cueto": [
+        "9800", 
+        "P", 
+        16.6
+    ], 
+    "Alberto Alburquerque": [
+        "4000", 
+        "P", 
+        1.7
+    ], 
+    "Pedro Alvarez": [
+        "3300", 
+        "3B", 
+        2.6
+    ], 
+    "Daisuke Matsuzaka": [
+        "4200", 
+        "P", 
+        2.7
+    ], 
+    "Kyuji Fujikawa": [
+        "4200", 
+        "P", 
+        1.9
+    ], 
+    "Kevin Frandsen": [
+        "2300", 
+        "2B", 
+        0.9
+    ], 
+    "Brian Duensing": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Zach Duke": [
+        "4200", 
+        "P", 
+        2.5
+    ], 
+    "Bruce Billings": [
+        "4000", 
+        "P", 
+        7
+    ], 
+    "Hisashi Iwakuma": [
+        "8200", 
+        "P", 
+        14.1
+    ], 
+    "Justin Grimm": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Michael Brantley": [
+        "3600", 
+        "OF", 
+        2.8
+    ], 
+    "Juan Lagares": [
+        "2900", 
+        "OF", 
+        2.2
+    ], 
+    "Erik Johnson": [
+        "4400", 
+        "P", 
+        5.6
+    ], 
+    "Esmil Rogers": [
+        "4800", 
+        "P", 
+        1.7
+    ], 
+    "T.J. McFarland": [
+        "4200", 
+        "P", 
+        3.3
+    ], 
+    "Kyle Kendrick": [
+        "5300", 
+        "P", 
+        7.3
+    ], 
+    "Michael Bolsinger": [
+        "4700", 
+        "P", 
+        6.6
+    ], 
+    "Buster Posey": [
+        "4100", 
+        "C", 
+        2.7
+    ], 
+    "Martin Maldonado": [
+        "2800", 
+        "C", 
+        2.4
+    ], 
+    "Brandon League": [
+        "4000", 
+        "P", 
+        2.6
+    ], 
+    "Nolan Reimold": [
+        "2700", 
+        "OF", 
+        1.4
+    ], 
+    "Doug Fister": [
+        "7000", 
+        "P", 
+        1.1
+    ], 
+    "Blake Treinen": [
+        "4100", 
+        "P", 
+        4.8
+    ], 
+    "Omar Infante": [
+        "3100", 
+        "2B", 
+        2.3
+    ], 
+    "Jacoby Ellsbury": [
+        "3800", 
+        "OF", 
+        2.8
+    ], 
+    "Ben Revere": [
+        "3000", 
+        "OF", 
+        1.9
+    ], 
+    "Justin Miller": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Yonder Alonso": [
+        "2500", 
+        "1B", 
+        1
+    ], 
+    "Tyler Lyons": [
+        "4200", 
+        "P", 
+        5.2
+    ], 
+    "Cliff Pennington": [
+        "2200", 
+        "SS", 
+        0.9
+    ], 
+    "Logan Ondrusek": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Anibal Sanchez": [
+        "8000", 
+        "P", 
+        7.8
+    ], 
+    "Chris Coghlan": [
+        "2200", 
+        "OF", 
+        0.4
+    ], 
+    "John Lackey": [
+        "7800", 
+        "P", 
+        13
+    ], 
+    "Josh Lueke": [
+        "4200", 
+        "P", 
+        1.3
+    ], 
+    "Sam LeCure": [
+        "4200", 
+        "P", 
+        2.3
+    ], 
+    "Ryan Kalish": [
+        "2300", 
+        "OF", 
+        1.2
+    ], 
+    "John Danks": [
+        "5200", 
+        "P", 
+        8.5
+    ], 
+    "Hunter Pence": [
+        "3400", 
+        "OF", 
+        2.5
+    ], 
+    "Adam Ottavino": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Kelly Johnson": [
+        "2800", 
+        "3B", 
+        1.7
+    ], 
+    "Wilson Ramos": [
+        "2900", 
+        "C", 
+        1.1
+    ], 
+    "Angel Pagan": [
+        "3000", 
+        "OF", 
+        2.7
+    ], 
+    "Jhoulys Chacin": [
+        "5500", 
+        "P", 
+        5.5
+    ], 
+    "Jonathan Pettibone": [
+        "4200", 
+        "P", 
+        3
+    ], 
+    "Clay Buchholz": [
+        "6500", 
+        "P", 
+        6.4
+    ], 
+    "Drake Britton": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Martin Perez": [
+        "6000", 
+        "P", 
+        9.6
+    ], 
+    "David Price": [
+        "8900", 
+        "P", 
+        12
+    ], 
+    "Anthony Swarzak": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Chris Rusin": [
+        "4200", 
+        "P", 
+        5
+    ], 
+    "Justin Marks": [
+        "4000", 
+        "P", 
+        1
+    ], 
+    "Rick Porcello": [
+        "7000", 
+        "P", 
+        11.6
+    ], 
+    "Joe Thatcher": [
+        "4000", 
+        "P", 
+        1.4
+    ], 
+    "Ethan Martin": [
+        "4200", 
+        "P", 
+        4.5
+    ], 
+    "Erasmo Ramirez": [
+        "4900", 
+        "P", 
+        6.3
+    ], 
+    "Jesse Crain": [
+        "4000", 
+        "P", 
+        2.3
+    ], 
+    "Scott Elbert": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Francisco Liriano": [
+        "7300", 
+        "P", 
+        7.8
+    ], 
+    "Chad Bettis": [
+        "4200", 
+        "P", 
+        0.6
+    ], 
+    "Tony Cruz": [
+        "2300", 
+        "C", 
+        1.1
+    ], 
+    "Jose Ramirez": [
+        "2700", 
+        "2B", 
+        -0.1
+    ], 
+    "Carl Crawford": [
+        "2600", 
+        "OF", 
+        1.6
+    ], 
+    "Alberto Callaspo": [
+        "2300", 
+        "3B", 
+        2
+    ], 
+    "Zach McAllister": [
+        "6100", 
+        "P", 
+        9.4
+    ], 
+    "Yangervis Solarte": [
+        "3000", 
+        "3B", 
+        2.1
+    ], 
+    "Caleb Thielbar": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Chad Billingsley": [
+        "5400", 
+        "P", 
+        9
+    ], 
+    "Alex Rios": [
+        "3600", 
+        "OF", 
+        2.6
+    ], 
+    "Collin McHugh": [
+        "4300", 
+        "P", 
+        13.1
+    ], 
+    "Clayton Kershaw": [
+        "10400", 
+        "P", 
+        16.4
+    ], 
+    "Ender Inciarte": [
+        "2200", 
+        "OF", 
+        0.3
+    ], 
+    "Steve Lombardozzi": [
+        "2200", 
+        "2B", 
+        1.2
+    ], 
+    "Neftali Soto": [
+        "2200", 
+        "1B", 
+        0.3
+    ], 
+    "Juan Uribe": [
+        "2900", 
+        "3B", 
+        2.2
+    ], 
+    "Garrett Richards": [
+        "6700", 
+        "P", 
+        12.7
+    ], 
+    "Alex Presley": [
+        "2300", 
+        "OF", 
+        1.1
+    ], 
+    "Tyler Colvin": [
+        "2200", 
+        "OF", 
+        4.3
+    ], 
+    "Franklin Gutierrez": [
+        "2700", 
+        "OF", 
+        2.4
+    ], 
+    "Jesse Chavez": [
+        "7500", 
+        "P", 
+        12.5
+    ], 
+    "Shin-Soo Choo": [
+        "4300", 
+        "OF", 
+        3.1
+    ], 
+    "Shane Victorino": [
+        "3100", 
+        "OF", 
+        2.4
+    ], 
+    "Matt Lindstrom": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Josh Hamilton": [
+        "3600", 
+        "OF", 
+        4.7
+    ], 
+    "John Baker": [
+        "2200", 
+        "C", 
+        0.1
+    ], 
+    "Bartolo Colon": [
+        "6400", 
+        "P", 
+        7.9
+    ], 
+    "Bryan Morris": [
+        "4200", 
+        "P", 
+        2.2
+    ], 
+    "Brian Roberts": [
+        "2700", 
+        "2B", 
+        1.8
+    ], 
+    "Ronald Belisario": [
+        "4000", 
+        "P", 
+        1.6
+    ], 
+    "Santiago Casilla": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Ross Ohlendorf": [
+        "4200", 
+        "P", 
+        6.2
+    ], 
+    "Dustin Ackley": [
+        "3100", 
+        "OF", 
+        2.1
+    ], 
+    "Chad Qualls": [
+        "4000", 
+        "P", 
+        1.5
+    ], 
+    "Ike Davis": [
+        "2700", 
+        "1B", 
+        2
+    ], 
+    "Adam Warren": [
+        "4200", 
+        "P", 
+        2.5
+    ], 
+    "Cody Allen": [
+        "5600", 
+        "P", 
+        2.3
+    ], 
+    "Brandon Belt": [
+        "3400", 
+        "1B", 
+        2.7
+    ], 
+    "Mike Napoli": [
+        "3300", 
+        "1B", 
+        2.8
+    ], 
+    "Danny Valencia": [
+        "2400", 
+        "3B", 
+        1.4
+    ], 
+    "Cesar Ramos": [
+        "4400", 
+        "P", 
+        4.5
+    ], 
+    "Justin Smoak": [
+        "3000", 
+        "1B", 
+        2.5
+    ], 
+    "Juan Perez": [
+        "2200", 
+        "OF", 
+        0
+    ], 
+    "Andrew Miller": [
+        "4200", 
+        "P", 
+        2.2
+    ], 
+    "Curtis Partch": [
+        "4200", 
+        "P", 
+        2.4
+    ], 
+    "Nick Franklin": [
+        "2700", 
+        "2B", 
+        0.7
+    ], 
+    "Scott Atchison": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Aramis Ramirez": [
+        "3000", 
+        "3B", 
+        2
+    ], 
+    "Carlos Villanueva": [
+        "4400", 
+        "P", 
+        2.2
+    ], 
+    "Ryan Ludwick": [
+        "2500", 
+        "OF", 
+        1.8
+    ], 
+    "Chris Johnson": [
+        "2400", 
+        "3B", 
+        1.2
+    ], 
+    "Brandon Hicks": [
+        "3300", 
+        "2B", 
+        2.4
+    ], 
+    "Troy Tulowitzki": [
+        "5700", 
+        "SS", 
+        4.7
+    ], 
+    "Wade Miley": [
+        "6000", 
+        "P", 
+        9.3
+    ], 
+    "Brandon Guyer": [
+        "2200", 
+        "OF", 
+        0.5
+    ], 
+    "Alex Wood": [
+        "7200", 
+        "P", 
+        10.2
+    ], 
+    "Yasiel Puig": [
+        "4400", 
+        "OF", 
+        3.7
+    ], 
+    "Mark Buehrle": [
+        "8000", 
+        "P", 
+        12.5
+    ], 
+    "Elian Herrera": [
+        "2200", 
+        "2B", 
+        0.4
+    ], 
+    "Donovan Solano": [
+        "2300", 
+        "2B", 
+        0.2
+    ], 
+    "Jace Peterson": [
+        "2200", 
+        "SS", 
+        0.5
+    ], 
+    "Matt Dominguez": [
+        "3000", 
+        "3B", 
+        1.9
+    ], 
+    "Juan Gutierrez": [
+        "4000", 
+        "P", 
+        1.8
+    ], 
+    "Brandon Crawford": [
+        "3200", 
+        "SS", 
+        2.3
+    ], 
+    "Robbie Ross": [
+        "4800", 
+        "P", 
+        6.9
+    ], 
+    "Maicer Izturis": [
+        "2200", 
+        "3B", 
+        1.2
+    ], 
+    "Trevor Bell": [
+        "4000", 
+        "P", 
+        -2.4
+    ], 
+    "Daniel Descalso": [
+        "2200", 
+        "2B", 
+        0.4
+    ], 
+    "Shane Greene": [
+        "4000", 
+        "P", 
+        1.1
+    ], 
+    "Desmond Jennings": [
+        "3300", 
+        "OF", 
+        2.8
+    ], 
+    "Jason Kipnis": [
+        "3000", 
+        "2B", 
+        2.6
+    ], 
+    "Mitch Moreland": [
+        "2700", 
+        "OF", 
+        1.7
+    ], 
+    "Robinson Chirinos": [
+        "2200", 
+        "C", 
+        1.3
+    ], 
+    "Juan Nicasio": [
+        "5300", 
+        "P", 
+        9
+    ], 
+    "Scott Downs": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Wei-Yin Chen": [
+        "6100", 
+        "P", 
+        10.1
+    ], 
+    "Eric O'Flaherty": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Ryan Roberts": [
+        "2200", 
+        "2B", 
+        0.2
+    ], 
+    "Donnie Murphy": [
+        "2600", 
+        "2B", 
+        1.1
+    ], 
+    "Ryan Zimmerman": [
+        "3600", 
+        "3B", 
+        2.9
+    ], 
+    "Matt Carpenter": [
+        "3400", 
+        "3B", 
+        2.2
+    ], 
+    "Junichi Tazawa": [
+        "4000", 
+        "P", 
+        1.7
+    ], 
+    "Greg Dobbs": [
+        "2300", 
+        "1B", 
+        -0.1
+    ], 
+    "Trevor Plouffe": [
+        "2900", 
+        "3B", 
+        2.5
+    ], 
+    "Jordan Zimmermann": [
+        "8900", 
+        "P", 
+        9.4
+    ], 
+    "Shane Robinson": [
+        "2300", 
+        "OF", 
+        0.1
+    ], 
+    "Nate McLouth": [
+        "2500", 
+        "OF", 
+        0.4
+    ], 
+    "Chris Tillman": [
+        "6600", 
+        "P", 
+        9.8
+    ], 
+    "Josh Fields": [
+        "4200", 
+        "P", 
+        0.8
+    ], 
+    "Ruben Tejada": [
+        "2300", 
+        "SS", 
+        1
+    ], 
+    "David Phelps": [
+        "4500", 
+        "P", 
+        2.9
+    ], 
+    "Roger Kieschnick": [
+        "2200", 
+        "OF", 
+        -0.4
+    ], 
+    "Chris Carter": [
+        "2600", 
+        "OF", 
+        1.8
+    ], 
+    "Justin Sellers": [
+        "2300", 
+        "SS", 
+        0.7
+    ], 
+    "Lucas Harrell": [
+        "4000", 
+        "P", 
+        2.7
+    ], 
+    "Kevin Jepsen": [
+        "4000", 
+        "P", 
+        1.6
+    ], 
+    "Jeanmar Gomez": [
+        "4200", 
+        "P", 
+        2.4
+    ], 
+    "Rob Wooten": [
+        "4200", 
+        "P", 
+        1.3
+    ], 
+    "Sean Marshall": [
+        "4000", 
+        "P", 
+        1
+    ], 
+    "Jeff Mathis": [
+        "2300", 
+        "C", 
+        1.1
+    ], 
+    "Jeff Locke": [
+        "4600", 
+        "P", 
+        4.1
+    ], 
+    "Jared Burton": [
+        "4000", 
+        "P", 
+        1.1
+    ], 
+    "Jarred Cosart": [
+        "5700", 
+        "P", 
+        7.8
+    ], 
+    "Yoslan Herrera": [
+        "4000", 
+        "P", 
+        1.5
+    ], 
+    "Lorenzo Cain": [
+        "2800", 
+        "OF", 
+        1.8
+    ], 
+    "Edinson Volquez": [
+        "5000", 
+        "P", 
+        6.4
+    ], 
+    "Ryan Sweeney": [
+        "2300", 
+        "OF", 
+        0.9
+    ], 
+    "Rickie Weeks": [
+        "3000", 
+        "2B", 
+        0.9
+    ], 
+    "Todd Redmond": [
+        "4900", 
+        "P", 
+        3
+    ], 
+    "Nick Hundley": [
+        "2300", 
+        "C", 
+        0.6
+    ], 
+    "Jeffrey Kobernus": [
+        "2200", 
+        "2B", 
+        0.9
+    ], 
+    "Brian McCann": [
+        "3000", 
+        "C", 
+        1.5
+    ], 
+    "Luis Sardinas": [
+        "3000", 
+        "SS", 
+        0.9
+    ], 
+    "David Hernandez": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Trevor Rosenthal": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Ian Thomas": [
+        "4000", 
+        "P", 
+        1.5
+    ], 
+    "Zack Wheeler": [
+        "6900", 
+        "P", 
+        8.1
+    ], 
+    "Daniel Santana": [
+        "3000", 
+        "SS", 
+        2.2
+    ], 
+    "Jesus Guzman": [
+        "2200", 
+        "OF", 
+        0.8
+    ], 
+    "Ricky Nolasco": [
+        "6000", 
+        "P", 
+        7.5
+    ], 
+    "Jose Altuve": [
+        "3200", 
+        "2B", 
+        2.7
+    ], 
+    "Marwin Gonzalez": [
+        "2500", 
+        "SS", 
+        1.2
+    ], 
+    "Hank Conger": [
+        "3200", 
+        "C", 
+        2.6
+    ], 
+    "Cole Hamels": [
+        "8100", 
+        "P", 
+        8.3
+    ], 
+    "Luke Putkonen": [
+        "4200", 
+        "P", 
+        -2.4
+    ], 
+    "Tyler Chatwood": [
+        "5400", 
+        "P", 
+        9
+    ], 
+    "Lyle Overbay": [
+        "2400", 
+        "1B", 
+        1.3
+    ], 
+    "Lonnie Chisenhall": [
+        "2700", 
+        "3B", 
+        1.8
+    ], 
+    "Steven Wright": [
+        "4200", 
+        "P", 
+        5.8
+    ], 
+    "Brennan Boesch": [
+        "2200", 
+        "OF", 
+        0.5
+    ], 
+    "Hanley Ramirez": [
+        "4000", 
+        "SS", 
+        2.6
+    ], 
+    "Jerry Blevins": [
+        "4000", 
+        "P", 
+        1.8
+    ], 
+    "Jon Jay": [
+        "2600", 
+        "OF", 
+        1.3
+    ], 
+    "Trevor Cahill": [
+        "5100", 
+        "P", 
+        4.6
+    ], 
+    "Ryan Goins": [
+        "2200", 
+        "2B", 
+        0.4
+    ], 
+    "Scott Carroll": [
+        "4000", 
+        "P", 
+        6.4
+    ], 
+    "Mark Reynolds": [
+        "2900", 
+        "1B", 
+        2.5
+    ], 
+    "Brett Oberholtzer": [
+        "5300", 
+        "P", 
+        6.4
+    ], 
+    "Alex Cobb": [
+        "7700", 
+        "P", 
+        11
+    ], 
+    "Ryan Flaherty": [
+        "2200", 
+        "2B", 
+        1.2
+    ], 
+    "Eric Chavez": [
+        "3100", 
+        "3B", 
+        1.1
+    ], 
+    "John Mayberry": [
+        "2300", 
+        "OF", 
+        0.7
+    ], 
+    "Corey Hart": [
+        "2900", 
+        "OF", 
+        2.2
+    ], 
+    "Justin Germano": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Matt Holliday": [
+        "3300", 
+        "OF", 
+        2.4
+    ], 
+    "L.J. Hoes": [
+        "2300", 
+        "OF", 
+        0.7
+    ], 
+    "Mike Minor": [
+        "7500", 
+        "P", 
+        6.1
+    ], 
+    "Brett Hayes": [
+        "2200", 
+        "C", 
+        -0.3
+    ], 
+    "Jason Giambi": [
+        "2200", 
+        "1B", 
+        -0.3
+    ], 
+    "Scooter Gennett": [
+        "2800", 
+        "2B", 
+        1.6
+    ], 
+    "B.J. Rosenberg": [
+        "4200", 
+        "P", 
+        1.1
+    ], 
+    "Jason Heyward": [
+        "3000", 
+        "OF", 
+        2.1
+    ], 
+    "Michael Morin": [
+        "4000", 
+        "P", 
+        2.3
+    ], 
+    "J.B. Shuck": [
+        "2300", 
+        "OF", 
+        1.3
+    ], 
+    "Tony Cingrani": [
+        "7900", 
+        "P", 
+        10
+    ], 
+    "Josh Zeid": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Xavier Cedeno": [
+        "4200", 
+        "P", 
+        1.1
+    ], 
+    "Charles Riefenhauser": [
+        "4000", 
+        "P", 
+        -0.5
+    ], 
+    "Joey Butler": [
+        "2200", 
+        "OF", 
+        0.4
+    ], 
+    "Jeff Samardzija": [
+        "8100", 
+        "P", 
+        11.5
+    ], 
+    "Jerome Williams": [
+        "4900", 
+        "P", 
+        2.4
+    ], 
+    "Wil Nieves": [
+        "2700", 
+        "C", 
+        2
+    ], 
+    "Andrew Brown": [
+        "2400", 
+        "1B", 
+        1.5
+    ], 
+    "Jose Alvarez": [
+        "4200", 
+        "P", 
+        0.6
+    ], 
+    "Oliver Perez": [
+        "4000", 
+        "P", 
+        1.5
+    ], 
+    "Jake Odorizzi": [
+        "4800", 
+        "P", 
+        7.5
+    ], 
+    "Jim Henderson": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Salvador Perez": [
+        "3000", 
+        "C", 
+        2
+    ], 
+    "Bryce Harper": [
+        "3700", 
+        "OF", 
+        2.1
+    ], 
+    "Ryan Braun": [
+        "4600", 
+        "OF", 
+        3.9
+    ], 
+    "Jackie Bradley": [
+        "2500", 
+        "OF", 
+        1.9
+    ], 
+    "Danny Worth": [
+        "2200", 
+        "SS", 
+        1.5
+    ], 
+    "Didi Gregorius": [
+        "3100", 
+        "SS", 
+        0
+    ], 
+    "Colby Rasmus": [
+        "3600", 
+        "OF", 
+        2.3
+    ], 
+    "Nick Markakis": [
+        "3000", 
+        "OF", 
+        2.2
+    ], 
+    "Bobby Parnell": [
+        "4000", 
+        "P", 
+        1
+    ], 
+    "Zach Rosscup": [
+        "4200", 
+        "P", 
+        2.3
+    ], 
+    "Grant Green": [
+        "2500", 
+        "SS", 
+        1
+    ], 
+    "Josh Donaldson": [
+        "3600", 
+        "3B", 
+        3.2
+    ], 
+    "Brett Gardner": [
+        "3400", 
+        "OF", 
+        2.4
+    ], 
+    "Justin Turner": [
+        "2300", 
+        "2B", 
+        0.8
+    ], 
+    "Jeurys Familia": [
+        "4200", 
+        "P", 
+        1.9
+    ], 
+    "Bobby Abreu": [
+        "2600", 
+        "OF", 
+        0.8
+    ], 
+    "Javier Lopez": [
+        "4000", 
+        "P", 
+        0.4
+    ], 
+    "J.P. Howell": [
+        "4000", 
+        "P", 
+        1.5
+    ], 
+    "Victor Martinez": [
+        "4100", 
+        "C", 
+        3.1
+    ], 
+    "Alex Wilson": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Welington Castillo": [
+        "2900", 
+        "C", 
+        2
+    ], 
+    "Randal Grichuk": [
+        "3000", 
+        "OF", 
+        0.6
+    ], 
+    "Christian Yelich": [
+        "2900", 
+        "OF", 
+        2.8
+    ], 
+    "Mike Moustakas": [
+        "2600", 
+        "3B", 
+        1.4
+    ], 
+    "Anthony Rendon": [
+        "3100", 
+        "2B", 
+        2.4
+    ], 
+    "Jacob Elmore": [
+        "2300", 
+        "SS", 
+        1
+    ], 
+    "Anthony Varvaro": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Adrian Nieto": [
+        "2900", 
+        "C", 
+        0.7
+    ], 
+    "Denard Span": [
+        "2700", 
+        "OF", 
+        2.1
+    ], 
+    "Yovani Gallardo": [
+        "6400", 
+        "P", 
+        9.3
+    ], 
+    "Jean Segura": [
+        "3000", 
+        "SS", 
+        1.9
+    ], 
+    "Bruce Rondon": [
+        "4200", 
+        "P", 
+        1.7
+    ], 
+    "Munenori Kawasaki": [
+        "2500", 
+        "SS", 
+        1.6
+    ], 
+    "Sergio Romo": [
+        "4000", 
+        "P", 
+        2.1
+    ], 
+    "B.J. Upton": [
+        "2800", 
+        "OF", 
+        2
+    ], 
+    "Shawn Tolleson": [
+        "4200", 
+        "P", 
+        1.7
+    ], 
+    "A.J. Pollock": [
+        "3500", 
+        "OF", 
+        2.3
+    ], 
+    "Travis D'Arnaud": [
+        "2300", 
+        "C", 
+        1.4
+    ], 
+    "Kurt Suzuki": [
+        "2800", 
+        "C", 
+        2.4
+    ], 
+    "Josh Harrison": [
+        "2400", 
+        "2B", 
+        1.2
+    ], 
+    "Caleb Gindl": [
+        "2200", 
+        "OF", 
+        0.4
+    ], 
+    "Brett Anderson": [
+        "4700", 
+        "P", 
+        4.7
+    ], 
+    "Willie Bloomquist": [
+        "2300", 
+        "SS", 
+        0.5
+    ], 
+    "Matt Reynolds": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Tyler Thornburg": [
+        "5100", 
+        "P", 
+        2.4
+    ], 
+    "James Paxton": [
+        "5400", 
+        "P", 
+        15
+    ], 
+    "Jordan Walden": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Gio Gonzalez": [
+        "8400", 
+        "P", 
+        10.9
+    ], 
+    "Charlie Morton": [
+        "5400", 
+        "P", 
+        7.9
+    ], 
+    "Blake Beavan": [
+        "4200", 
+        "P", 
+        3
+    ], 
+    "Franklin Morales": [
+        "5200", 
+        "P", 
+        7.8
+    ], 
+    "Carlos Torres": [
+        "4200", 
+        "P", 
+        2.3
+    ], 
+    "Hector Sanchez": [
+        "2800", 
+        "C", 
+        1.5
+    ], 
+    "Joseph Ortiz": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Bryan Mitchell": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Masahiro Tanaka": [
+        "9700", 
+        "P", 
+        16.1
+    ], 
+    "Alex Avila": [
+        "3100", 
+        "C", 
+        1.8
+    ], 
+    "Jonathan Villar": [
+        "3200", 
+        "SS", 
+        2.4
+    ], 
+    "Bryan Holaday": [
+        "2300", 
+        "C", 
+        1.4
+    ], 
+    "Jeff Bianchi": [
+        "2200", 
+        "SS", 
+        0.4
+    ], 
+    "Justin Upton": [
+        "4100", 
+        "OF", 
+        3.3
+    ], 
+    "Justin Verlander": [
+        "9100", 
+        "P", 
+        12.1
+    ], 
+    "Felipe Paulino": [
+        "4500", 
+        "P", 
+        2.3
+    ], 
+    "Felix Hernandez": [
+        "9700", 
+        "P", 
+        12.8
+    ], 
+    "Norichika Aoki": [
+        "2800", 
+        "OF", 
+        1.9
+    ], 
+    "Ryan Cook": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Aaron Loup": [
+        "4200", 
+        "P", 
+        1.7
+    ], 
+    "Max Scherzer": [
+        "11000", 
+        "P", 
+        15.9
+    ], 
+    "Mark Teixeira": [
+        "3700", 
+        "1B", 
+        3.3
+    ], 
+    "Derek Jeter": [
+        "2700", 
+        "SS", 
+        1.5
+    ], 
+    "Brandon Maurer": [
+        "4100", 
+        "P", 
+        5
+    ], 
+    "Brandon Workman": [
+        "4200", 
+        "P", 
+        4
+    ], 
+    "Sonny Gray": [
+        "8300", 
+        "P", 
+        12.5
+    ], 
+    "Evan Marshall": [
+        "4000", 
+        "P", 
+        3.7
+    ], 
+    "Tim Federowicz": [
+        "2200", 
+        "C", 
+        0.1
+    ], 
+    "Randy Choate": [
+        "4000", 
+        "P", 
+        0.9
+    ], 
+    "Yan Gomes": [
+        "3000", 
+        "C", 
+        2.1
+    ], 
+    "Jonathan Broxton": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Dale Thayer": [
+        "4000", 
+        "P", 
+        2.1
+    ], 
+    "Marco Scutaro": [
+        "2900", 
+        "2B", 
+        1.8
+    ], 
+    "Trevor Bauer": [
+        "4700", 
+        "P", 
+        13
+    ], 
+    "Tucker Barnhart": [
+        "2900", 
+        "C", 
+        0.5
+    ], 
+    "Fernando Rodriguez": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Leury Garcia": [
+        "2900", 
+        "SS", 
+        1.1
+    ], 
+    "Ian Kinsler": [
+        "3800", 
+        "2B", 
+        3.1
+    ], 
+    "Jose Cisnero": [
+        "4200", 
+        "P", 
+        0.8
+    ], 
+    "Scott Kazmir": [
+        "7800", 
+        "P", 
+        12.5
+    ], 
+    "Adam Wainwright": [
+        "10100", 
+        "P", 
+        15.1
+    ], 
+    "Moises Sierra": [
+        "2400", 
+        "OF", 
+        0.7
+    ], 
+    "Mike Zunino": [
+        "2600", 
+        "C", 
+        2.4
+    ], 
+    "Zach Britton": [
+        "4200", 
+        "P", 
+        2.9
+    ], 
+    "Caleb Joseph": [
+        "3000", 
+        "C", 
+        -0.9
+    ], 
+    "Cory Rasmus": [
+        "4200", 
+        "P", 
+        1.1
+    ], 
+    "John Jaso": [
+        "3000", 
+        "C", 
+        2
+    ], 
+    "Bo Schultz": [
+        "4000", 
+        "P", 
+        1
+    ], 
+    "Yoervis Medina": [
+        "4200", 
+        "P", 
+        1.7
+    ], 
+    "Brian Schlitter": [
+        "4000", 
+        "P", 
+        1.4
+    ], 
+    "Joe Kelly": [
+        "5600", 
+        "P", 
+        9
+    ], 
+    "Matt Moore": [
+        "6900", 
+        "P", 
+        6.5
+    ], 
+    "Matt Harvey": [
+        "4000", 
+        "P", 
+        13.3
+    ], 
+    "Josh Willingham": [
+        "3100", 
+        "OF", 
+        2
+    ], 
+    "Billy Hamilton": [
+        "3500", 
+        "OF", 
+        2.2
+    ], 
+    "Miguel Alfredo Gonzalez": [
+        "4200", 
+        "P", 
+        0
+    ], 
+    "Yasmani Grandal": [
+        "3000", 
+        "C", 
+        1.8
+    ], 
+    "Wilton Lopez": [
+        "4000", 
+        "P", 
+        0.5
+    ], 
+    "Ian Desmond": [
+        "2600", 
+        "SS", 
+        1.9
+    ], 
+    "Evan Gattis": [
+        "3100", 
+        "C", 
+        2.2
+    ], 
+    "Ivan Nova": [
+        "5200", 
+        "P", 
+        5.3
+    ], 
+    "Vince Belnome": [
+        "2800", 
+        "3B", 
+        0
+    ], 
+    "Jamey Wright": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Dan Haren": [
+        "8000", 
+        "P", 
+        11.5
+    ], 
+    "Francisco Cervelli": [
+        "2200", 
+        "C", 
+        0.8
+    ], 
+    "Patrick Corbin": [
+        "7100", 
+        "P", 
+        11
+    ], 
+    "Maikel Cleto": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Ryan Rowland-Smith": [
+        "4000", 
+        "P", 
+        2
+    ], 
+    "Chris Getz": [
+        "2300", 
+        "2B", 
+        0.7
+    ], 
+    "Reid Brignac": [
+        "2200", 
+        "SS", 
+        -0.1
+    ], 
+    "Edwin Jackson": [
+        "6000", 
+        "P", 
+        8.6
+    ], 
+    "Jayson Nix": [
+        "2200", 
+        "3B", 
+        0.4
+    ], 
+    "Ernesto Frieri": [
+        "4000", 
+        "P", 
+        1.4
+    ], 
+    "Jake Diekman": [
+        "4200", 
+        "P", 
+        2.7
+    ], 
+    "Zach Walters": [
+        "2200", 
+        "SS", 
+        1
+    ], 
+    "Luis Avilan": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Andy Dirks": [
+        "2700", 
+        "OF", 
+        1.7
+    ], 
+    "Ryan Wheeler": [
+        "2200", 
+        "3B", 
+        3.3
+    ], 
+    "Dallas Keuchel": [
+        "6600", 
+        "P", 
+        11.1
+    ], 
+    "Nyjer Morgan": [
+        "3100", 
+        "OF", 
+        2.8
+    ], 
+    "Justin Maxwell": [
+        "2900", 
+        "OF", 
+        0.5
+    ], 
+    "Charlie Furbush": [
+        "4200", 
+        "P", 
+        0.7
+    ], 
+    "Kris Johnson": [
+        "4200", 
+        "P", 
+        9.1
+    ], 
+    "Carlos Corporan": [
+        "2300", 
+        "C", 
+        1.2
+    ], 
+    "John McDonald": [
+        "2200", 
+        "3B", 
+        0.6
+    ], 
+    "Torii Hunter": [
+        "3200", 
+        "OF", 
+        2.6
+    ], 
+    "Carlos Quentin": [
+        "3100", 
+        "OF", 
+        2.6
+    ], 
+    "Alfredo Marte": [
+        "2300", 
+        "OF", 
+        2.3
+    ], 
+    "Garrett Jones": [
+        "2700", 
+        "1B", 
+        2
+    ], 
+    "Dan Otero": [
+        "4200", 
+        "P", 
+        2.3
+    ], 
+    "Michael Kohn": [
+        "4000", 
+        "P", 
+        2.3
+    ], 
+    "Pete Kozma": [
+        "2300", 
+        "SS", 
+        0.1
+    ], 
+    "Jason Hammel": [
+        "6500", 
+        "P", 
+        12.5
+    ], 
+    "Emilio Bonifacio": [
+        "3000", 
+        "2B", 
+        2.1
+    ], 
+    "Kyle Gibson": [
+        "4500", 
+        "P", 
+        6.7
+    ], 
+    "Adam LaRoche": [
+        "2900", 
+        "1B", 
+        3
+    ], 
+    "Ichiro Suzuki": [
+        "2900", 
+        "OF", 
+        1.1
+    ], 
+    "Dioner Navarro": [
+        "2800", 
+        "C", 
+        1.8
+    ], 
+    "Darin Downs": [
+        "4200", 
+        "P", 
+        1.4
+    ], 
+    "Yu Darvish": [
+        "11000", 
+        "P", 
+        14.3
+    ], 
+    "Darin Mastroianni": [
+        "2400", 
+        "OF", 
+        0.5
+    ], 
+    "Kevin Kouzmanoff": [
+        "3500", 
+        "3B", 
+        3.3
+    ], 
+    "Homer Bailey": [
+        "7900", 
+        "P", 
+        9.8
+    ], 
+    "Jordy Mercer": [
+        "2400", 
+        "SS", 
+        0.9
+    ], 
+    "Wily Peralta": [
+        "7000", 
+        "P", 
+        12.2
+    ], 
+    "Mike Stutes": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Nathan Karns": [
+        "4200", 
+        "P", 
+        4.3
+    ], 
+    "Nick Hagadone": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Jason Vargas": [
+        "5700", 
+        "P", 
+        9.9
+    ], 
+    "Tom Gorzelanny": [
+        "4200", 
+        "P", 
+        3.3
+    ], 
+    "Conor Gillaspie": [
+        "3100", 
+        "3B", 
+        2.3
+    ], 
+    "Austin Jackson": [
+        "3200", 
+        "OF", 
+        2.7
+    ], 
+    "Carlos Gonzalez": [
+        "4400", 
+        "OF", 
+        2.9
+    ], 
+    "Paul Goldschmidt": [
+        "4000", 
+        "1B", 
+        3.3
+    ], 
+    "Jordan Lyles": [
+        "7000", 
+        "P", 
+        10.9
+    ], 
+    "Raul Ibanez": [
+        "2600", 
+        "OF", 
+        1.5
+    ], 
+    "Dustin Pedroia": [
+        "4000", 
+        "2B", 
+        2.7
+    ], 
+    "Jack Hannahan": [
+        "2300", 
+        "3B", 
+        0.7
+    ], 
+    "Frank de los Santos": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Josh Wilson": [
+        "2200", 
+        "SS", 
+        1
+    ], 
+    "Derek Dietrich": [
+        "2900", 
+        "2B", 
+        2.2
+    ], 
+    "John Murphy": [
+        "2600", 
+        "C", 
+        1.7
+    ], 
+    "Jorge De La Rosa": [
+        "6100", 
+        "P", 
+        9
+    ], 
+    "Marlon Byrd": [
+        "3500", 
+        "OF", 
+        2.5
+    ], 
+    "Josh Johnson": [
+        "5500", 
+        "P", 
+        7.3
+    ], 
+    "Donn Roach": [
+        "4000", 
+        "P", 
+        2.5
+    ], 
+    "Michael Mariot": [
+        "4000", 
+        "P", 
+        2
+    ], 
+    "Jarrod Dyson": [
+        "2800", 
+        "OF", 
+        1.5
+    ], 
+    "Felix Doubront": [
+        "5600", 
+        "P", 
+        6.2
+    ], 
+    "CC Sabathia": [
+        "7000", 
+        "P", 
+        9.9
+    ], 
+    "DJ LeMahieu": [
+        "2400", 
+        "2B", 
+        1.9
+    ], 
+    "Dan Robertson": [
+        "3000", 
+        "OF", 
+        0.5
+    ], 
+    "Chris Owings": [
+        "2600", 
+        "SS", 
+        1.6
+    ], 
+    "Alcides Escobar": [
+        "3200", 
+        "SS", 
+        2.5
+    ], 
+    "Jarrod Saltalamacchia": [
+        "2900", 
+        "C", 
+        2.3
+    ], 
+    "Jose Lobaton": [
+        "2500", 
+        "C", 
+        1.5
+    ], 
+    "Ben Zobrist": [
+        "3400", 
+        "2B", 
+        2.2
+    ], 
+    "Martin Prado": [
+        "2400", 
+        "3B", 
+        1.5
+    ], 
+    "Pedro Ciriaco": [
+        "2300", 
+        "SS", 
+        -21.3
+    ], 
+    "David Huff": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Tommy Hunter": [
+        "6200", 
+        "P", 
+        1.6
+    ], 
+    "Jose Iglesias": [
+        "2700", 
+        "SS", 
+        1.6
+    ], 
+    "Pablo Sandoval": [
+        "2700", 
+        "3B", 
+        1.3
+    ], 
+    "Chris Withrow": [
+        "4200", 
+        "P", 
+        2.4
+    ], 
+    "Nick Punto": [
+        "2400", 
+        "3B", 
+        1.1
+    ], 
+    "Cole Gillespie": [
+        "2200", 
+        "OF", 
+        1
+    ], 
+    "Andre Ethier": [
+        "3000", 
+        "OF", 
+        1.7
+    ], 
+    "Eric Hosmer": [
+        "3100", 
+        "1B", 
+        2.3
+    ], 
+    "Michael Cuddyer": [
+        "3500", 
+        "OF", 
+        3
+    ], 
+    "Stephen Strasburg": [
+        "10300", 
+        "P", 
+        13.1
+    ], 
+    "Scott Hairston": [
+        "2700", 
+        "OF", 
+        1
+    ], 
+    "Oswaldo Arcia": [
+        "2900", 
+        "OF", 
+        1
+    ], 
+    "Brad Brach": [
+        "4200", 
+        "P", 
+        0.6
+    ], 
+    "Pedro Baez": [
+        "3000", 
+        "3B", 
+        0
+    ], 
+    "Vinnie Pestano": [
+        "4200", 
+        "P", 
+        0.7
+    ], 
+    "Mike Olt": [
+        "2800", 
+        "3B", 
+        2
+    ], 
+    "Mike Leake": [
+        "6800", 
+        "P", 
+        7.6
+    ], 
+    "Tony Campana": [
+        "2200", 
+        "OF", 
+        0.7
+    ], 
+    "Ian Stewart": [
+        "2700", 
+        "3B", 
+        1.4
+    ], 
+    "Hector Noesi": [
+        "4300", 
+        "P", 
+        2.6
+    ], 
+    "Jose Quintana": [
+        "5700", 
+        "P", 
+        9.1
+    ], 
+    "A.J. Ramos": [
+        "5800", 
+        "P", 
+        2.7
+    ], 
+    "Reed Johnson": [
+        "2300", 
+        "OF", 
+        1.3
+    ], 
+    "Justin Ruggiano": [
+        "3500", 
+        "OF", 
+        1.4
+    ], 
+    "Shelby Miller": [
+        "7700", 
+        "P", 
+        10.2
+    ], 
+    "Robinson Cano": [
+        "3500", 
+        "2B", 
+        2.3
+    ], 
+    "Scott Baker": [
+        "5500", 
+        "P", 
+        5.1
+    ], 
+    "Dexter Fowler": [
+        "3100", 
+        "OF", 
+        2.3
+    ], 
+    "Sergio Santos": [
+        "4000", 
+        "P", 
+        1.4
+    ], 
+    "Paul Clemens": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Darwin Barney": [
+        "2200", 
+        "2B", 
+        0.8
+    ], 
+    "Daniel Nava": [
+        "2800", 
+        "OF", 
+        1.2
+    ], 
+    "Cameron Maybin": [
+        "2900", 
+        "OF", 
+        1.9
+    ], 
+    "James McDonald": [
+        "4800", 
+        "P", 
+        5.4
+    ], 
+    "Craig Kimbrel": [
+        "4000", 
+        "P", 
+        2.5
+    ], 
+    "Carlos Triunfel": [
+        "2300", 
+        "SS", 
+        0.1
+    ], 
+    "Chris Martin": [
+        "4000", 
+        "P", 
+        1.4
+    ], 
+    "Chris Sale": [
+        "9000", 
+        "P", 
+        15.3
+    ], 
+    "Neil Wagner": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Jim Johnson": [
+        "4000", 
+        "P", 
+        2
+    ], 
+    "Brad Hand": [
+        "4100", 
+        "P", 
+        1.6
+    ], 
+    "Brandon Beachy": [
+        "6300", 
+        "P", 
+        9.2
+    ], 
+    "Brandon Moss": [
+        "3400", 
+        "1B", 
+        2.5
+    ], 
+    "Johnny Giavotella": [
+        "2900", 
+        "2B", 
+        3.1
+    ], 
+    "Coco Crisp": [
+        "3100", 
+        "OF", 
+        2.7
+    ], 
+    "Dee Gordon": [
+        "3900", 
+        "2B", 
+        3.6
+    ], 
+    "Rene Rivera": [
+        "2500", 
+        "C", 
+        1.2
+    ], 
+    "Wade Davis": [
+        "4700", 
+        "P", 
+        3.3
+    ], 
+    "Jedd Gyorko": [
+        "2800", 
+        "2B", 
+        1.5
+    ], 
+    "Gaby Sanchez": [
+        "2800", 
+        "1B", 
+        1.7
+    ], 
+    "Alex Gordon": [
+        "2600", 
+        "OF", 
+        2
+    ], 
+    "Jose Molina": [
+        "2200", 
+        "C", 
+        0
+    ], 
+    "Evan Meek": [
+        "4000", 
+        "P", 
+        0.9
+    ], 
+    "Josh Rutledge": [
+        "3300", 
+        "SS", 
+        1.5
+    ], 
+    "Josh Beckett": [
+        "6300", 
+        "P", 
+        9.7
+    ], 
+    "Brandon McCarthy": [
+        "5700", 
+        "P", 
+        8.3
+    ], 
+    "Jonathan Schoop": [
+        "2300", 
+        "2B", 
+        1.6
+    ], 
+    "Adam Lind": [
+        "2900", 
+        "1B", 
+        2.6
+    ], 
+    "Ubaldo Jimenez": [
+        "6200", 
+        "P", 
+        8.7
+    ], 
+    "Jason Frasor": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Erik Bedard": [
+        "5800", 
+        "P", 
+        6.9
+    ], 
+    "Wilin Rosario": [
+        "3000", 
+        "C", 
+        1.9
+    ], 
+    "Jason Bartlett": [
+        "2700", 
+        "SS", 
+        1.1
+    ], 
+    "Derek Norris": [
+        "3500", 
+        "C", 
+        2.6
+    ], 
+    "John Buck": [
+        "2400", 
+        "C", 
+        1.5
+    ], 
+    "Vin Mazzaro": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Casey Kelly": [
+        "4200", 
+        "P", 
+        0
+    ], 
+    "Everth Cabrera": [
+        "2600", 
+        "SS", 
+        1.6
+    ], 
+    "Jose Tabata": [
+        "2300", 
+        "OF", 
+        0.9
+    ], 
+    "Jonathan Lucroy": [
+        "3200", 
+        "C", 
+        2.3
+    ], 
+    "Chase Utley": [
+        "4000", 
+        "2B", 
+        3.2
+    ], 
+    "Nate Schierholtz": [
+        "2600", 
+        "OF", 
+        1.3
+    ], 
+    "Drew Butera": [
+        "2300", 
+        "C", 
+        2.2
+    ], 
+    "Julio Teheran": [
+        "8900", 
+        "P", 
+        12.1
+    ], 
+    "Kolten Wong": [
+        "2700", 
+        "2B", 
+        1.3
+    ], 
+    "Matt Adams": [
+        "2600", 
+        "1B", 
+        1.7
+    ], 
+    "Jaff Decker": [
+        "2200", 
+        "OF", 
+        -0.3
+    ], 
+    "Tanner Roark": [
+        "5700", 
+        "P", 
+        10
+    ], 
+    "Tuffy Gosewisch": [
+        "2500", 
+        "C", 
+        0.9
+    ], 
+    "Preston Claiborne": [
+        "4200", 
+        "P", 
+        2.7
+    ], 
+    "Jason Motte": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "R.A. Dickey": [
+        "7400", 
+        "P", 
+        8.4
+    ], 
+    "Anthony Rizzo": [
+        "3300", 
+        "1B", 
+        3
+    ], 
+    "Chris Capuano": [
+        "4500", 
+        "P", 
+        2.1
+    ], 
+    "Luke Hochevar": [
+        "5200", 
+        "P", 
+        2.7
+    ], 
+    "Gerardo Parra": [
+        "3000", 
+        "OF", 
+        2.3
+    ], 
+    "Arnold Leon": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Andrew Cashner": [
+        "8000", 
+        "P", 
+        8.3
+    ], 
+    "Jose Dominguez": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Brad Lincoln": [
+        "4200", 
+        "P", 
+        0.6
+    ], 
+    "Jeff Keppinger": [
+        "2500", 
+        "3B", 
+        1.3
+    ], 
+    "David Ortiz": [
+        "3700", 
+        "1B", 
+        2.8
+    ], 
+    "Alexi Amarista": [
+        "2300", 
+        "2B", 
+        1.1
+    ], 
+    "Chris Gimenez": [
+        "2300", 
+        "C", 
+        0.6
+    ], 
+    "Andrelton Simmons": [
+        "2800", 
+        "SS", 
+        1.5
+    ], 
+    "Jake McGee": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Tyler Collins": [
+        "3000", 
+        "OF", 
+        0.1
+    ], 
+    "Miguel Olivo": [
+        "2200", 
+        "C", 
+        1.2
+    ], 
+    "Chone Figgins": [
+        "2300", 
+        "3B", 
+        0.5
+    ], 
+    "Brian Dozier": [
+        "3800", 
+        "2B", 
+        3.9
+    ], 
+    "Ryan Doumit": [
+        "2400", 
+        "C", 
+        0.3
+    ], 
+    "David Freese": [
+        "3000", 
+        "3B", 
+        1.5
+    ], 
+    "Francisco Peguero": [
+        "2200", 
+        "OF", 
+        0.8
+    ], 
+    "Paul Maholm": [
+        "5200", 
+        "P", 
+        3.9
+    ], 
+    "Manny Machado": [
+        "3200", 
+        "3B", 
+        1
+    ], 
+    "Mark Melancon": [
+        "4000", 
+        "P", 
+        1.7
+    ], 
+    "Jose Ortega": [
+        "4200", 
+        "P", 
+        -1.9
+    ], 
+    "Joe Wieland": [
+        "4900", 
+        "P", 
+        0
+    ], 
+    "Ian Kennedy": [
+        "7400", 
+        "P", 
+        12
+    ], 
+    "Aaron Barrett": [
+        "4000", 
+        "P", 
+        2.4
+    ], 
+    "Neil Walker": [
+        "3200", 
+        "2B", 
+        2.8
+    ], 
+    "Tyson Ross": [
+        "6700", 
+        "P", 
+        11.8
+    ], 
+    "Marc Rzepczynski": [
+        "4200", 
+        "P", 
+        1.2
+    ], 
+    "Geovany Soto": [
+        "3100", 
+        "C", 
+        2
+    ], 
+    "Brad Miller": [
+        "2800", 
+        "SS", 
+        1.3
+    ], 
+    "Aaron Harang": [
+        "6700", 
+        "P", 
+        12.5
+    ], 
+    "Jemile Weeks": [
+        "2600", 
+        "2B", 
+        1.9
+    ], 
+    "Nick Swisher": [
+        "2700", 
+        "1B", 
+        1.8
+    ], 
+    "Daniel Hudson": [
+        "5200", 
+        "P", 
+        0
+    ], 
+    "Taijuan Walker": [
+        "5900", 
+        "P", 
+        8.3
+    ], 
+    "Josh Wall": [
+        "4200", 
+        "P", 
+        -2.5
+    ], 
+    "Delmon Young": [
+        "2200", 
+        "OF", 
+        1.4
+    ], 
+    "Taylor Jordan": [
+        "4000", 
+        "P", 
+        5.2
+    ], 
+    "Dean Anna": [
+        "2800", 
+        "2B", 
+        0.8
+    ], 
+    "Kevin Siegrist": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Eric Sogard": [
+        "2300", 
+        "2B", 
+        1.3
+    ], 
+    "Daric Barton": [
+        "2200", 
+        "1B", 
+        0.5
+    ], 
+    "Will Harris": [
+        "4200", 
+        "P", 
+        1.7
+    ], 
+    "Prince Fielder": [
+        "3400", 
+        "1B", 
+        2.1
+    ], 
+    "Adrian Gonzalez": [
+        "3700", 
+        "1B", 
+        3
+    ], 
+    "Michael Choice": [
+        "2600", 
+        "OF", 
+        1.5
+    ], 
+    "Jorge Rondon": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Mike Carp": [
+        "2400", 
+        "OF", 
+        0.9
+    ], 
+    "Nick Buss": [
+        "2200", 
+        "OF", 
+        -0.2
+    ], 
+    "Mario Hollands": [
+        "4000", 
+        "P", 
+        1.5
+    ], 
+    "Jeff Beliveau": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Cliff Lee": [
+        "9400", 
+        "P", 
+        11.9
+    ], 
+    "Ryan Brasier": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "David Murphy": [
+        "2400", 
+        "OF", 
+        1.9
+    ], 
+    "Bud Norris": [
+        "6300", 
+        "P", 
+        9.1
+    ], 
+    "Daniel McCutchen": [
+        "4000", 
+        "P", 
+        0.1
+    ], 
+    "A.J. Burnett": [
+        "7500", 
+        "P", 
+        10
+    ], 
+    "Tom Koehler": [
+        "5900", 
+        "P", 
+        9.6
+    ], 
+    "Kyle Farnsworth": [
+        "4000", 
+        "P", 
+        1.1
+    ], 
+    "Brett Marshall": [
+        "4200", 
+        "P", 
+        4.3
+    ], 
+    "Matt Garza": [
+        "6300", 
+        "P", 
+        8.5
+    ], 
+    "Casey Sadler": [
+        "4000", 
+        "P", 
+        3.5
+    ], 
+    "Shawn Kelley": [
+        "4000", 
+        "P", 
+        1.8
+    ], 
+    "Nelson Cruz": [
+        "3800", 
+        "OF", 
+        3.3
+    ], 
+    "Corey Dickerson": [
+        "3800", 
+        "OF", 
+        2.4
+    ], 
+    "Neil Ramirez": [
+        "4000", 
+        "P", 
+        2
+    ], 
+    "Erik Davis": [
+        "4200", 
+        "P", 
+        2.1
+    ], 
+    "Brandon Cumpton": [
+        "4200", 
+        "P", 
+        7.6
+    ], 
+    "Chris Young": [
+        "3000", 
+        "OF", 
+        2.5
+    ], 
+    "Luis Garcia": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Steve Tolleson": [
+        "2300", 
+        "2B", 
+        2.3
+    ], 
+    "Russell Martin": [
+        "2800", 
+        "C", 
+        2.5
+    ], 
+    "Brett Cecil": [
+        "4200", 
+        "P", 
+        1.8
+    ], 
+    "Casey Fien": [
+        "4000", 
+        "P", 
+        2.1
+    ], 
+    "Jimmy Rollins": [
+        "3700", 
+        "SS", 
+        3
+    ], 
+    "Billy Butler": [
+        "2200", 
+        "1B", 
+        1.4
+    ], 
+    "Hiroki Kuroda": [
+        "7500", 
+        "P", 
+        8.4
+    ], 
+    "Marcell Ozuna": [
+        "2600", 
+        "OF", 
+        2.2
+    ], 
+    "Dan Jennings": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Starling Marte": [
+        "3200", 
+        "OF", 
+        2.3
+    ], 
+    "Jason Grilli": [
+        "4000", 
+        "P", 
+        1.4
+    ], 
+    "Abraham Almonte": [
+        "2200", 
+        "OF", 
+        1.5
+    ], 
+    "Eduardo Escobar": [
+        "2200", 
+        "SS", 
+        1.7
+    ], 
+    "Tony Gwynn": [
+        "2400", 
+        "OF", 
+        0.7
+    ], 
+    "Will Venable": [
+        "2400", 
+        "OF", 
+        0.9
+    ], 
+    "Brad Ziegler": [
+        "4000", 
+        "P", 
+        1.6
+    ], 
+    "Jon Diaz": [
+        "2200", 
+        "3B", 
+        0.6
+    ], 
+    "Andrew Romine": [
+        "2200", 
+        "SS", 
+        1.2
+    ], 
+    "Kole Calhoun": [
+        "3300", 
+        "OF", 
+        3.2
+    ], 
+    "Donnie Joseph": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Bradley Boxberger": [
+        "4200", 
+        "P", 
+        2.8
+    ], 
+    "Matt Harrison": [
+        "5700", 
+        "P", 
+        7.7
+    ], 
+    "Francisley Bueno": [
+        "4200", 
+        "P", 
+        0
+    ], 
+    "Sam Fuld": [
+        "2700", 
+        "OF", 
+        2.3
+    ], 
+    "Matt Cain": [
+        "7000", 
+        "P", 
+        8
+    ], 
+    "Cody Ross": [
+        "2500", 
+        "OF", 
+        0.5
+    ], 
+    "Kevin Slowey": [
+        "4200", 
+        "P", 
+        3.1
+    ], 
+    "Logan Darnell": [
+        "4000", 
+        "P", 
+        4
+    ], 
+    "Tyler Flowers": [
+        "2500", 
+        "C", 
+        1.9
+    ], 
+    "Nick Christiani": [
+        "4200", 
+        "P", 
+        1.3
+    ], 
+    "Michael Tonkin": [
+        "4200", 
+        "P", 
+        0.9
+    ], 
+    "Cody Asche": [
+        "2700", 
+        "3B", 
+        1.7
+    ], 
+    "Carter Capps": [
+        "4200", 
+        "P", 
+        3
+    ], 
+    "Matt Albers": [
+        "4000", 
+        "P", 
+        2.1
+    ], 
+    "Greg Holland": [
+        "4000", 
+        "P", 
+        2.1
+    ], 
+    "James Shields": [
+        "8800", 
+        "P", 
+        12.6
+    ], 
+    "Nick Castellanos": [
+        "2900", 
+        "3B", 
+        1.9
+    ], 
+    "Evan Longoria": [
+        "3900", 
+        "3B", 
+        2.4
+    ], 
+    "Chen-Chang Lee": [
+        "4200", 
+        "P", 
+        1.4
+    ], 
+    "Brandon Barnes": [
+        "3000", 
+        "OF", 
+        1.5
+    ], 
+    "Khris Davis": [
+        "2700", 
+        "OF", 
+        1.7
+    ], 
+    "Jake Dunning": [
+        "4200", 
+        "P", 
+        0.2
+    ], 
+    "Scott Sizemore": [
+        "2200", 
+        "2B", 
+        1.8
+    ], 
+    "Jonny Gomes": [
+        "3100", 
+        "OF", 
+        2
+    ], 
+    "Josh Collmenter": [
+        "5200", 
+        "P", 
+        5.3
+    ], 
+    "Michael McKenry": [
+        "2200", 
+        "C", 
+        1.3
+    ], 
+    "Joe Saunders": [
+        "4600", 
+        "P", 
+        3.2
+    ], 
+    "Michael Pineda": [
+        "5400", 
+        "P", 
+        9.6
+    ], 
+    "Josh Tomlin": [
+        "4500", 
+        "P", 
+        11.6
+    ], 
+    "Nick Maronde": [
+        "4200", 
+        "P", 
+        0.8
+    ], 
+    "LaTroy Hawkins": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Erik Kratz": [
+        "2300", 
+        "C", 
+        1.4
+    ], 
+    "Ryan Mattheus": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Travis Snider": [
+        "2400", 
+        "OF", 
+        1.3
+    ], 
+    "Samuel Deduno": [
+        "5500", 
+        "P", 
+        4.7
+    ], 
+    "Alex White": [
+        "4200", 
+        "P", 
+        0
+    ], 
+    "Pedro Strop": [
+        "4000", 
+        "P", 
+        1.3
+    ], 
+    "Jay Bruce": [
+        "3600", 
+        "OF", 
+        2.8
+    ], 
+    "Ervin Santana": [
+        "9100", 
+        "P", 
+        15
+    ], 
+    "Steve Pearce": [
+        "2600", 
+        "1B", 
+        2.2
+    ], 
+    "Tony Sanchez": [
+        "2200", 
+        "C", 
+        1.1
+    ], 
+    "Bronson Arroyo": [
+        "5400", 
+        "P", 
+        7
+    ], 
+    "Jake Peavy": [
+        "7500", 
+        "P", 
+        10.3
+    ], 
+    "Randall Delgado": [
+        "4300", 
+        "P", 
+        2.2
+    ], 
+    "Burke Badenhop": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Danny Salazar": [
+        "7400", 
+        "P", 
+        8.7
+    ], 
+    "Dayan Viciedo": [
+        "3000", 
+        "OF", 
+        2.3
+    ], 
+    "Christopher Herrmann": [
+        "2200", 
+        "C", 
+        0.1
+    ], 
+    "Boone Logan": [
+        "4000", 
+        "P", 
+        2
+    ], 
+    "Kyle Seager": [
+        "3500", 
+        "3B", 
+        2.7
+    ], 
+    "Marco Estrada": [
+        "7200", 
+        "P", 
+        10.3
+    ], 
+    "Aaron Hicks": [
+        "2500", 
+        "OF", 
+        1.4
+    ], 
+    "Jonny Venters": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "James Loney": [
+        "2900", 
+        "1B", 
+        2.4
+    ], 
+    "Joey Votto": [
+        "3600", 
+        "1B", 
+        2.8
+    ], 
+    "Joba Chamberlain": [
+        "4000", 
+        "P", 
+        2.1
+    ], 
+    "Tyler Clippard": [
+        "4000", 
+        "P", 
+        2.5
+    ], 
+    "Nolan Arenado": [
+        "3700", 
+        "3B", 
+        2.8
+    ], 
+    "Adam Dunn": [
+        "2900", 
+        "1B", 
+        2.4
+    ], 
+    "Brayan Pena": [
+        "2500", 
+        "C", 
+        1.9
+    ], 
+    "Edgmer Escalona": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Ryan Howard": [
+        "3100", 
+        "1B", 
+        2.6
+    ], 
+    "Ryan Buchter": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Asdrubal Cabrera": [
+        "3100", 
+        "SS", 
+        2.1
+    ], 
+    "Andre Rienzo": [
+        "4500", 
+        "P", 
+        7.2
+    ], 
+    "Kris Medlen": [
+        "7400", 
+        "P", 
+        10.8
+    ], 
+    "Jose Abreu": [
+        "4200", 
+        "1B", 
+        3.7
+    ], 
+    "Starlin Castro": [
+        "3400", 
+        "SS", 
+        2.5
+    ], 
+    "Roberto Hernandez": [
+        "5200", 
+        "P", 
+        7
+    ], 
+    "Mark Ellis": [
+        "2400", 
+        "2B", 
+        1.2
+    ], 
+    "Alfonso Soriano": [
+        "3100", 
+        "OF", 
+        2
+    ], 
+    "Matt Wieters": [
+        "2800", 
+        "C", 
+        2.7
+    ], 
+    "Kelvin Herrera": [
+        "4200", 
+        "P", 
+        1.9
+    ], 
+    "Yadier Molina": [
+        "3100", 
+        "C", 
+        2.4
+    ], 
+    "Xander Bogaerts": [
+        "2800", 
+        "SS", 
+        1.7
+    ], 
+    "Brandon Kintzler": [
+        "4200", 
+        "P", 
+        1.3
+    ], 
+    "Charlie Culberson": [
+        "2300", 
+        "2B", 
+        0.8
+    ], 
+    "Alexi Ogando": [
+        "5200", 
+        "P", 
+        1
+    ], 
+    "Dillon Gee": [
+        "6600", 
+        "P", 
+        10.2
+    ], 
+    "Marcus Stroman": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "Gordon Beckham": [
+        "2700", 
+        "2B", 
+        2
+    ], 
+    "Howie Kendrick": [
+        "3800", 
+        "2B", 
+        3.3
+    ], 
+    "Jordan Schafer": [
+        "2200", 
+        "OF", 
+        0.5
+    ], 
+    "Chris Stewart": [
+        "2300", 
+        "C", 
+        0.7
+    ], 
+    "Gerrit Cole": [
+        "8200", 
+        "P", 
+        9.9
+    ], 
+    "Carlos Carrasco": [
+        "4500", 
+        "P", 
+        4.7
+    ], 
+    "Wesley Wright": [
+        "4200", 
+        "P", 
+        1.5
+    ], 
+    "Joaquin Arias": [
+        "2200", 
+        "2B", 
+        0.3
+    ], 
+    "Kyle Lohse": [
+        "6500", 
+        "P", 
+        12
+    ], 
+    "Tommy Kahnle": [
+        "4000", 
+        "P", 
+        2.7
+    ], 
+    "Aaron Crow": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Eduardo Nunez": [
+        "2300", 
+        "SS", 
+        1.6
+    ], 
+    "Collin Cowgill": [
+        "2600", 
+        "OF", 
+        1.7
+    ], 
+    "Brent Morel": [
+        "2200", 
+        "3B", 
+        -5
+    ], 
+    "Alfredo Aceves": [
+        "4200", 
+        "P", 
+        4.3
+    ], 
+    "Lucas Duda": [
+        "2500", 
+        "1B", 
+        1.9
+    ], 
+    "Craig Breslow": [
+        "4000", 
+        "P", 
+        2.2
+    ], 
+    "Jean Machi": [
+        "4200", 
+        "P", 
+        2.7
+    ], 
+    "Louis Coleman": [
+        "4200", 
+        "P", 
+        1.9
+    ], 
+    "Eric Young": [
+        "3500", 
+        "OF", 
+        2.8
+    ], 
+    "Jose Fernandez": [
+        "10200", 
+        "P", 
+        15.4
+    ], 
+    "A.J. Ellis": [
+        "2800", 
+        "C", 
+        0.7
+    ], 
+    "Carlos Martinez": [
+        "5400", 
+        "P", 
+        1.3
+    ], 
+    "Carlos Santana": [
+        "3200", 
+        "3B", 
+        1.9
+    ], 
+    "Chris Davis": [
+        "3800", 
+        "1B", 
+        2.7
+    ], 
+    "Colby Lewis": [
+        "6400", 
+        "P", 
+        9
+    ], 
+    "Ryan Hanigan": [
+        "2600", 
+        "C", 
+        1.9
+    ], 
+    "Charlie Blackmon": [
+        "4300", 
+        "OF", 
+        3.7
+    ], 
+    "Tyler Moore": [
+        "2300", 
+        "1B", 
+        1.1
+    ], 
+    "Pedro Beato": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Mark Trumbo": [
+        "3700", 
+        "OF", 
+        3
+    ], 
+    "J.A. Happ": [
+        "5000", 
+        "P", 
+        3.8
+    ], 
+    "Joe Savery": [
+        "4200", 
+        "P", 
+        1
+    ], 
+    "Engel Beltre": [
+        "2200", 
+        "OF", 
+        0.7
+    ], 
+    "Daniel Murphy": [
+        "3900", 
+        "2B", 
+        3.1
+    ], 
+    "Drew Stubbs": [
+        "3200", 
+        "OF", 
+        1.6
+    ], 
+    "Manny Parra": [
+        "4200", 
+        "P", 
+        1.4
+    ], 
+    "Jared Hughes": [
+        "4200", 
+        "P", 
+        2.7
+    ], 
+    "Yoenis Cespedes": [
+        "3700", 
+        "OF", 
+        2.8
+    ], 
+    "Yunel Escobar": [
+        "2200", 
+        "SS", 
+        1.2
+    ], 
+    "Justin Morneau": [
+        "3300", 
+        "1B", 
+        3.1
+    ], 
+    "Adeiny Hechavarria": [
+        "2200", 
+        "SS", 
+        1.7
+    ], 
+    "Gonzalez Germen": [
+        "4200", 
+        "P", 
+        2.1
+    ], 
+    "Cesar Cabral": [
+        "4200", 
+        "P", 
+        0
+    ], 
+    "Miguel Gonzalez": [
+        "5500", 
+        "P", 
+        7.9
+    ], 
+    "Jason Kubel": [
+        "2300", 
+        "OF", 
+        1.8
+    ], 
+    "Luke Gregerson": [
+        "4000", 
+        "P", 
+        1.6
+    ], 
+    "George Kontos": [
+        "4200", 
+        "P", 
+        3
+    ], 
+    "Seth Maness": [
+        "4200", 
+        "P", 
+        1.7
+    ], 
+    "Sean Burnett": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Brooks Raley": [
+        "4200", 
+        "P", 
+        2.2
+    ], 
+    "Nicholas Martinez": [
+        "4000", 
+        "P", 
+        4.5
+    ], 
+    "Jimmy Paredes": [
+        "2200", 
+        "2B", 
+        1.4
+    ], 
+    "Mike Aviles": [
+        "2800", 
+        "SS", 
+        2.1
+    ], 
+    "Ryan Raburn": [
+        "2300", 
+        "2B", 
+        0.7
+    ], 
+    "Chris Heisey": [
+        "2200", 
+        "OF", 
+        1.3
+    ], 
+    "Dellin Betances": [
+        "4200", 
+        "P", 
+        3.5
+    ], 
+    "Jordan Danks": [
+        "2200", 
+        "OF", 
+        0.9
+    ], 
+    "Alexander Torres": [
+        "4300", 
+        "P", 
+        1.9
+    ], 
+    "Danny Espinosa": [
+        "2500", 
+        "2B", 
+        1.9
+    ], 
+    "Ross Detwiler": [
+        "4300", 
+        "P", 
+        2
+    ], 
+    "Josh Outman": [
+        "4200", 
+        "P", 
+        2
+    ], 
+    "A.J. Griffin": [
+        "6000", 
+        "P", 
+        10.7
+    ], 
+    "Jacob Petricka": [
+        "4200", 
+        "P", 
+        2.2
+    ], 
+    "Michael Bourn": [
+        "2800", 
+        "OF", 
+        1.8
+    ], 
+    "Marcus Walden": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Mike Pelfrey": [
+        "4000", 
+        "P", 
+        2.4
+    ], 
+    "Marc Krauss": [
+        "2500", 
+        "OF", 
+        1.6
+    ], 
+    "David Wright": [
+        "4100", 
+        "3B", 
+        2.4
+    ], 
+    "Michael Almanzar": [
+        "2500", 
+        "3B", 
+        0
+    ], 
+    "Neal Cotts": [
+        "4000", 
+        "P", 
+        1.4
+    ], 
+    "Tim Collins": [
+        "4200", 
+        "P", 
+        0.2
+    ], 
+    "Ramon Santiago": [
+        "2400", 
+        "2B", 
+        0.8
+    ], 
+    "Wil Myers": [
+        "3100", 
+        "OF", 
+        2.2
+    ], 
+    "George Springer": [
+        "2400", 
+        "OF", 
+        1.5
+    ], 
+    "Arquimedes Caminero": [
+        "4200", 
+        "P", 
+        0.6
+    ], 
+    "Adrian Beltre": [
+        "3700", 
+        "3B", 
+        2.4
+    ], 
+    "Logan Schafer": [
+        "2200", 
+        "OF", 
+        1
+    ], 
+    "Drew Smyly": [
+        "6700", 
+        "P", 
+        8.2
+    ], 
+    "Brock Holt": [
+        "2400", 
+        "3B", 
+        2.8
+    ], 
+    "Grady Sizemore": [
+        "3000", 
+        "OF", 
+        1.8
+    ], 
+    "Cory Luebke": [
+        "4600", 
+        "P", 
+        0
+    ], 
+    "Alexander Guerrero": [
+        "2500", 
+        "2B", 
+        -0.1
+    ], 
+    "Eric Fornataro": [
+        "4000", 
+        "P", 
+        0.7
+    ], 
+    "Jeremy Affeldt": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "Elliot Johnson": [
+        "2200", 
+        "2B", 
+        0.3
+    ], 
+    "Tommy Medica": [
+        "2300", 
+        "1B", 
+        0.8
+    ], 
+    "Robbie Ray": [
+        "4000", 
+        "P", 
+        10.6
+    ], 
+    "Jim Adduci": [
+        "2300", 
+        "OF", 
+        1.5
+    ], 
+    "Brandon Gomes": [
+        "4200", 
+        "P", 
+        1.6
+    ], 
+    "Travis Ishikawa": [
+        "2300", 
+        "1B", 
+        1
+    ], 
+    "Jeff Baker": [
+        "2600", 
+        "2B", 
+        1.4
+    ], 
+    "Don Kelly": [
+        "2300", 
+        "OF", 
+        1.3
+    ], 
+    "Robbie Erlin": [
+        "5400", 
+        "P", 
+        8.4
+    ], 
+    "Jon Lester": [
+        "8700", 
+        "P", 
+        15
+    ], 
+    "Jose Bautista": [
+        "4400", 
+        "OF", 
+        3.6
+    ], 
+    "David Ross": [
+        "2500", 
+        "C", 
+        1.4
+    ], 
+    "Matt Kemp": [
+        "3600", 
+        "OF", 
+        2.6
+    ], 
+    "Ehire Adrianza": [
+        "2200", 
+        "SS", 
+        0.3
+    ], 
+    "Aaron Hill": [
+        "3300", 
+        "2B", 
+        2.2
+    ], 
+    "Darren O'Day": [
+        "4000", 
+        "P", 
+        1.7
+    ], 
+    "Addison Reed": [
+        "4000", 
+        "P", 
+        1.8
+    ], 
+    "Junior Lake": [
+        "2900", 
+        "OF", 
+        1.9
+    ], 
+    "Joe Mauer": [
+        "3200", 
+        "1B", 
+        2.6
+    ], 
+    "Jonathan Herrera": [
+        "2200", 
+        "2B", 
+        0.7
+    ], 
+    "Charlie Leesman": [
+        "4200", 
+        "P", 
+        -3.8
+    ], 
+    "Asher Wojciechowski": [
+        "4000", 
+        "P", 
+        0
+    ], 
+    "Xavier Nady": [
+        "2500", 
+        "OF", 
+        0.9
+    ], 
+    "Scott Rice": [
+        "4200", 
+        "P", 
+        0.7
+    ], 
+    "David Robertson": [
+        "4000", 
+        "P", 
+        1.9
+    ], 
+    "William Smith": [
+        "5000", 
+        "P", 
+        2.1
+    ], 
+    "Todd Frazier": [
+        "3500", 
+        "3B", 
+        3
+    ], 
+    "Jenrry Mejia": [
+        "5900", 
+        "P", 
+        9.2
+    ], 
+    "Seth Rosin": [
+        "4000", 
+        "P", 
+        2.7
+    ], 
+    "Carlos Ruiz": [
+        "3100", 
+        "C", 
+        2.6
+    ], 
+    "Stolmy Pimentel": [
+        "4200", 
+        "P", 
+        4.4
+    ], 
+    "Wandy Rodriguez": [
+        "4700", 
+        "P", 
+        4.8
+    ], 
+    "Vidal Nuno": [
+        "4800", 
+        "P", 
+        4.7
+    ], 
+    "Chase Headley": [
+        "3300", 
+        "3B", 
+        1.8
+    ], 
+    "Gus Schlosser": [
+        "4000", 
+        "P", 
+        1.2
+    ], 
+    "Alfredo Figaro": [
+        "4200", 
+        "P", 
+        5
+    ], 
+    "Steve Clevenger": [
+        "2300", 
+        "C", 
+        2.1
+    ], 
+    "Josh Thole": [
+        "2300", 
+        "C", 
+        1.4
+    ], 
+    "Skip Schumaker": [
+        "2300", 
+        "2B", 
+        1.6
+    ], 
+    "C.J. Wilson": [
+        "8300", 
+        "P", 
+        12.7
+    ]
+}
