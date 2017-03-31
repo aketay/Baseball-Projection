@@ -6,7 +6,6 @@
 #
 # Created:     07/04/2014
 # Copyright:   (c) aketay 2014
-# Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import random
 import time
@@ -79,8 +78,6 @@ class Pitcher:
         self.earnedRuns = 0
         self.strikeOuts = 0
         self.winCount = 0
-
-
 
 class Game:
     def __init__(self):
@@ -267,10 +264,7 @@ class Game:
                 hitChance = random.random()
                 walkChance = random.random()
 
-
-
                 #pitch
-
 
                 if pitchChance <= self.tempBatterOBPA:
 
@@ -309,8 +303,6 @@ class Game:
                 pitchChance = random.random()
                 hitChance = random.random()
                 walkChance = random.random()
-
-
 
                 #pitch
                 #if the player gets on base, then decide what it is
@@ -426,7 +418,6 @@ class Game:
                         for item in awayTeamPitchers:
                             item.gotWin = False
 
-
             if self.inning >= 9:
                 self.checkGameOver()
 
@@ -495,7 +486,6 @@ class Game:
             if self.inning >= 9:
                 self.checkGameOver()
 
-
     def batterOBPA(self):
         #Get Adjusted OBP using Log-5 Formula
 
@@ -511,7 +501,6 @@ class Game:
                 PA = self.currentPitcher.pitcherOBPAL
 
                 result = ((BA * PA)/leagueAverages.leagueOBPAL)/(((BA * PA)/leagueAverages.leagueOBPAL)+((1-BA)*(1-PA)/(1-leagueAverages.leagueOBPAL)))* float(parkFactors.parkDict[self.gameLocation][5])
-
 
             return result
         elif self.inningHalf == 0:
@@ -683,9 +672,9 @@ class Game:
                 self.awayWinCount +=1
             #print "Home Team didn't tie it up or take the lead, game over!"
 
-#Write Final Data to SpreadSHeet
+#Write Final Data to csv
 def writeFinalPlayerInfo():
-        f = open(r'/Users/Slyjester/Desktop/FDFinalInfo.csv', 'a')
+        f = open(r'/Users/Aketay/Desktop/FDFinalInfo.csv', 'a')
 
         for item in finalPlayerList.keys():
             for player in finalComparison.fdSalCapDict.keys():
@@ -697,7 +686,7 @@ def writeFinalPlayerInfo():
         f.close()
 
 def writePlayerStatInfo():
-        #f = open(r'/Users/Slyjester/Desktop/PlayerStatInfo.csv', 'a')
+        #f = open(r'/Users/Aketay/Desktop/PlayerStatInfo.csv', 'a')
 
         for item in playerStats.topTeamLineUp:
             print item
